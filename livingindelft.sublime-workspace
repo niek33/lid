@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/Admin/AdminEventsController.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Niek/Downloads/JetBrains PhpStorm v8 0.1 build 138.2001 With Key [TorDigger]/Key.txt",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Niek/Desktop/sdafsdf.txt",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/database/production.sqlite",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_11_27_153854_create_myevents_table.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/Myevent.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/events/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/app.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_11_26_122258_create-users-table.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/livingindelft",
+		"/C/xampp/htdocs/livingindelft/app",
+		"/C/xampp/htdocs/livingindelft/app/commands",
+		"/C/xampp/htdocs/livingindelft/app/config",
+		"/C/xampp/htdocs/livingindelft/app/config/packages",
+		"/C/xampp/htdocs/livingindelft/app/controllers",
+		"/C/xampp/htdocs/livingindelft/app/controllers/Admin",
+		"/C/xampp/htdocs/livingindelft/app/database",
+		"/C/xampp/htdocs/livingindelft/app/database/migrations",
+		"/C/xampp/htdocs/livingindelft/app/tests",
+		"/C/xampp/htdocs/livingindelft/app/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Niek/Downloads/JetBrains PhpStorm v8 0.1 build 138.2001 With Key [TorDigger]/ReadMe!.txt",
+		"/C/xampp/htdocs/livingindelft/app/models/Myevent.php",
+		"/C/xampp/htdocs/livingindelft/app/routes.php",
+		"/C/xampp/htdocs/livingindelft/app/models/Event.php",
+		"/C/xampp/htdocs/livingindelft/app/database/migrations/2014_11_26_125444_create-events-table.php",
+		"/C/xampp/htdocs/livingindelft/app/database/migrations/2014_11_27_153132_create_events_table.php",
+		"/C/xampp/htdocs/livingindelft/app/views/users/register.blade.php",
+		"/C/xampp/htdocs/livingindelft/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/livingindelft/app/views/users/login.blade.php",
+		"/C/xampp/htdocs/livingindelft/app/models/User.php",
+		"/C/xampp/htdocs/livingindelft/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/livingindelft/app/views/layout.blade.php",
+		"/C/xampp/htdocs/livingindelft/app/views/home.blade.php",
+		"/C/xampp/htdocs/livingindelft/app/views/events.blade.php",
+		"/C/xampp/htdocs/livingindelft/composer.json",
+		"/C/xampp/htdocs/livingindelft/app/config/app.php",
+		"/C/xampp/htdocs/livingindelft/app/config/packages/frozennode/administrator/administrator.php",
+		"/C/xampp/htdocs/livingindelft/app/config/administrator/events.php",
+		"/C/xampp/htdocs/livingindelft/app/database/migrations/2014_11_26_122258_create-users-table.php",
+		"/C/xampp/htdocs/livingindelft/vendor/frozennode/administrator/src/Frozennode/Administrator/AdministratorServiceProvider.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/debug/Symfony/Component/Debug/FatalErrorHandler/UndefinedMethodFatalErrorHandler.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionAbsentBundle/ExtensionAbsentBundle.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/BundleInterface.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/Bundle.php",
+		"/C/xampp/htdocs/livingindelft/vendor/phpseclib/phpseclib/build/build.xml",
+		"/C/xampp/htdocs/livingindelft/vendor/bin/boris",
+		"/C/xampp/htdocs/livingindelft/vendor/frozennode/administrator/public/js/jquery/i18n/jquery.ui.datepicker-nl-BE.js",
+		"/C/xampp/htdocs/livingindelft/vendor/frozennode/administrator/public/js/jquery/i18n/jquery.ui.datepicker-nl.js",
+		"/C/xampp/htdocs/livingindelft/vendor/frozennode/administrator/CONTRIBUTING.md",
+		"/C/xampp/htdocs/livingindelft/vendor/frozennode/administrator/docs/field-type-bool.md",
+		"/C/xampp/htdocs/livingindelft/public/packages/frozennode/administrator/js/admin.js",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/security-core/Symfony/Component/Security/Core/Authorization/AccessDecisionManager.php",
+		"/C/xampp/htdocs/livingindelft/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
+		"/C/xampp/htdocs/livingindelft/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/livingindelft/artisan",
+		"/C/xampp/htdocs/livingindelft/public/css/custom.css",
+		"/C/xampp/htdocs/livingindelft/vendor/phpseclib/phpseclib/phpseclib/File/X509.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/translation/Symfony/Component/Translation/Loader/schema/dic/xliff-core/xliff-core-1.2-strict.xsd",
+		"/C/xampp/htdocs/livingindelft/vendor/predis/predis/lib/Predis/Option/AbstractOption.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+		"/C/xampp/htdocs/livingindelft/vendor/psr/log/Psr/Log/LoggerAwareInterface.php",
+		"/C/xampp/htdocs/livingindelft/livingindelft.sublime-project",
+		"/C/xampp/htdocs/livingindelft/vendor/phpseclib/phpseclib/tests/Functional/Net/SFTPUserStoryTest.php",
+		"/C/Users/Niek/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Niek/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/livingindelft/app/config/database.php",
+		"/C/xampp/htdocs/livingindelft/app/views/basic-needs.blade.php",
+		"/C/xampp/htdocs/livingindelft/vendor/predis/predis/lib/Predis/ResponseObjectInterface.php",
+		"/C/xampp/htdocs/livingindelft/readme.md",
+		"/C/xampp/htdocs/livingindelft/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/C/xampp/htdocs/livingindelft/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOne.php",
+		"/C/xampp/htdocs/livingindelft/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/definition_astext.txt",
+		"/C/xampp/htdocs/livingindelft/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/ClosureUse.php",
+		"/C/Users/Niek/Desktop/bootstrap-3.3.1-dist/dist/css/custom.css",
+		"/C/Users/Niek/Desktop/bootstrap-3.3.1-dist/dist/index.html",
+		"/C/Users/Niek/Google Drive/Python/Spot/Spot/ThumbComments.py",
+		"/C/Users/Niek/Downloads/Microsoft Office 2013 Professional Plus/# Installation Guide.txt",
+		"/C/Users/Niek/Downloads/Tomtesterom.S01.NLVLAAMS.XViD-SHOWGEMiST/Tomtesterom.S01.NLVLAAMS.XViD-SHOWGEMiST.nfo",
+		"/C/Users/Niek/Downloads/Tomtesterom.S01.NLVLAAMS.XViD-SHOWGEMiST/SHOWGEMiST @ Twitter.nfo",
+		"/C/Users/Niek/Downloads/zario_scrape.sql",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Niek/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Niek/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"login",
+			"item",
+			"container",
+			"1170",
+			"header",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/Admin/AdminEventsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Niek/Downloads/JetBrains PhpStorm v8 0.1 build 138.2001 With Key [TorDigger]/Key.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Niek/Desktop/sdafsdf.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/database/production.sqlite",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/database/migrations/2014_11_27_153854_create_myevents_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/models/Myevent.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/events/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/database/migrations/2014_11_26_122258_create-users-table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "livingindelft.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.ph",
+				"app\\config\\app.php"
+			],
+			[
+				"routes",
+				"app\\routes.php"
+			],
+			[
+				"app.php",
+				"app\\config\\app.php"
+			],
+			[
+				"administrator",
+				"app\\config\\packages\\frozennode\\administrator\\administrator.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"adminsitrator",
+				"app\\config\\packages\\frozennode\\administrator\\administrator.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"layou",
+				"app\\views\\layout.blade.php"
+			],
+			[
+				"homecontrol",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"usersc",
+				"app\\controllers\\UsersController.php"
+			],
+			[
+				"layout",
+				"app\\views\\layout.blade.php"
+			],
+			[
+				"homec",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"home.b",
+				"app\\views\\home.blade.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"home",
+				"app\\controllers\\HomeController.php"
+			],
+			[
+				"database",
+				"app\\config\\database.php"
+			],
+			[
+				"custom.css",
+				"public\\css\\custom.css"
+			],
+			[
+				"custom",
+				"dist\\css\\custom.css"
+			],
+			[
+				"routes.",
+				"livingindelft\\app\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
