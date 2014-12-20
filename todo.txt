@@ -1,0 +1,19 @@
+Todo's
+---------
+
+* Events
+	- Event pagina, met info over pagina
+	- 
+
+* Nieuwsbrieven
+	- Inschrijven
+
+
+
+
+Admin panel
+* Events
+	- WYSIWYG editor inbouwen
+	
+
+* Nieuwsbrieven
