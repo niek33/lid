@@ -14,10 +14,16 @@
 Route::filter('isAdmin', function()
 { 
 	// Check if user is an admin
+	if ( Auth::check()) {
 	  if ( Auth::user()->isAdmin == 0) {
-
+	  	
 	     return Redirect::to('/'); 
 	   }
+   }
+   else {
+   		return Response::make('Access denied', 401);
+   }
+
 }); 
 
 

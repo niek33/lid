@@ -1,6 +1,21 @@
 Todo's
 ---------
 
+* Basic needs
+	- Basic need pagina, met overzicht van basic needs plus registratie knop
+	
+
+	* Ziggo
+		- Email, zie notities
+
+	* ABN
+		- Email, zie notities
+
+	* Eneco
+		- Wachten op Badloe
+
+
+
 * Events
 	- Event pagina, met info over pagina
 	- 
@@ -9,11 +24,14 @@ Todo's
 	- Inschrijven
 
 
+* Database
+	- Nalopen of alle informatie opgevangen wordt voor users in db
+
 
 
 Admin panel
 * Events
 	- WYSIWYG editor inbouwen
-	
+
 
 * Nieuwsbrieven

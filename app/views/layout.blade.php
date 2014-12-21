@@ -20,6 +20,7 @@
 
     <!-- Custom styles for this template -->
     {{ HTML::style('css/custom.css') }}
+    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -74,13 +75,17 @@
       @yield('content')
 
 
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Terug naar boven</a></p>
-        <p>Living in Delft 2014 &copy; &middot; <a href="#">Over ons</a> &middot; <a href="#">Contact</a></p>
-      </footer>
+
 
     </div><!-- /.container -->
+
+    <!-- FOOTER -->
+    <footer>
+      <p class="pull-right"><a href="#">Terug naar boven</a></p>
+      
+
+      <div id="footerbar"><p>Living in Delft 2014 &copy; &middot; <a href="#">Over ons</a> &middot; <a href="#">Contact</a></p></div>
+    </footer>
 
 
     <!-- Bootstrap core JavaScript

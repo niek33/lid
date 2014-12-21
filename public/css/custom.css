@@ -35,6 +35,28 @@ body {
 
 footer {
   margin-top: 75px;
+  width: 100%;
+  background-color: #7EBEC5;
+  color: #ffffff;
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  height: 250px;
+}
+
+#footerbar {
+  background-color: #4a929b;
+  width: 100%;
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 500px;
+  color: #BCE1E0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
 }
 
 

@@ -16,6 +16,7 @@ class AdminEventsController extends BaseController {
 
     public function store()
     {
+        var_dump(Input::all());
         $validator = Validator::make($data = Input::all(), Myevent::$rules);
 
         if ($validator->fails())
@@ -30,6 +31,7 @@ class AdminEventsController extends BaseController {
 
     public function edit($id)
     {
+
         $myevent = Myevent::find($id);
         return View::make('admin.events.edit', compact('myevent'));
     }
@@ -43,17 +45,30 @@ class AdminEventsController extends BaseController {
 
     public function update($id)
     {
-        print 'ee';
         $event = Myevent::findOrFail($id);
-        $validator = Validator::make($data = Input::all(), Myevent::$rules);
+
+
+
+        $rules = array(
+            'title'       => 'required',
+            'description'      => 'required'
+        );
+
+        $validator = Validator::make($data = Input::all(), $rules);
+
         if ($validator->fails())
         {
             return Redirect::back()->withErrors($validator)->withInput();
         }
-        $event->update($data);
+        else {
+            $event->title = $data['title'];  
+            $event->description = $data['description'];
+            $event->save();
+           
+           return Redirect::route('admin.events.index');
 
+       }
 
-        return Redirect::route('admin.events.index');
     }
 
 }

@@ -19,10 +19,18 @@ class UsersController extends BaseController {
 		    $user->firstname = Input::get('firstname');
 		    $user->lastname = Input::get('lastname');
 		    $user->email = Input::get('email');
+		    $user->street = Input::get('street');
+		    $user->zipcode = Input::get('zipcode');
+		    $user->city = Input::get('city');
+		    $user->telephone = Input::get('telephone');
+		    $user->birthday = Input::get('birthday');
+
 		    $user->password = Hash::make(Input::get('password'));
 		    $user->save();
 		 
-		    return Redirect::to('users/login')->with('message', 'Thanks for registering!');
+		 	Auth::attempt(array('email'=>Input::get('email'), 'password'=>Input::get('password')));
+
+		    return Redirect::to('/')->with('message', 'Thanks for registering, you are now logged in!');
 		} else {
 		    return Redirect::to('users/register')->with('message', 'The following errors occurred')->withErrors($validator)->withInput();
 		}    
